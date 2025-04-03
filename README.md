@@ -14,8 +14,6 @@ The goal of this project is to classify text samples into different emotion cate
 
 The complete code and analysis can be found in the Jupyter Notebook `main.ipynb`.
 
-## Project Structure
-
 
 ## Installation
 
@@ -55,6 +53,28 @@ Follow the instructions in the notebook to execute each cell sequentially and ex
 - **Model Building:** Implements various classifiers and compares their performance on emotion recognition tasks.
 
 - **Evaluation:** Uses a range of evaluation metrics and visual tools such as confusion matrices to analyze model performance.
+
+## Future Enhancements
+- **Deep Learning Models:** Explore more advanced models (e.g., LSTM, transformers) for potentially improved performance.
+
+- **Data Augmentation:** Investigate data augmentation techniques to handle limited or imbalanced datasets.
+
+- **Extended Analysis:** Implements various classifiers and compares their performance on emotion recognition tasks.
+
+- **Evaluation:** Enhance the evaluation section with cross-validation and additional performance metrics.
+
+ ## Acknowledgements
+- **Coursera:** This project was developed as part of a Coursera guided project on NLP and machine learning.
+
+- **Open-Source Libraries:** Special thanks to the developers of the Python libraries and frameworks used in this project.
+
+
+
+
+
+
+
+
 
 
 
